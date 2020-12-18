@@ -1,20 +1,21 @@
-body{
-    background-color: khaki;
+body {
+  background-color: khaki;
 }
 
-hr{ /*plz refer to documenation for more styling functions*/
-    background-color: khaki;
-    border-style: none;
-    border-top-style: dotted;
-    height: 2px;
-    width: 33.3%;
+hr {
+  /*plz refer to documenation for more styling functions*/
+  background-color: khaki;
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  width: 33.3%;
 }
-h1{
-    color: maroon;
+h1 {
+  color: maroon;
 }
-h2{
-    color: firebrick;
+h2 {
+  color: firebrick;
 }
-h3{
-    color: crimson;
+h3 {
+  color: crimson;
 }
